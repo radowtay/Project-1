@@ -14,7 +14,7 @@ Data Visualization
 # import actual visualizations 
 # with sentances explaining each one. 
 =======
-#### -- Project Status: [Active]
+#### Project Status: [Active]
 
 ## Project Intro/Objective
 ### Purpose: The purpose of this project is to satisfy our curiosity of film data.
@@ -73,7 +73,7 @@ We dropped any rows that had no values.
 
 
 * Busiest Directors - most movies output in a single year
-    For this question, we found that the most movies any director had output in a single year (within the dataset) was two movies.  So, we compiled a visualization of each director that had released two in one year from 1996-2016.
+    * For this question, we found that the most movies any director had output in a single year (within the dataset) was two movies.  So, we compiled a visualization of each director that had released two in one year from 1996-2016.
 
 
 * Busiest Actors - most movies output in a single year
@@ -83,11 +83,11 @@ We dropped any rows that had no values.
 
 
 * Genres with the highest and lowest average budgets
-    We discovered that animated films have the highest average budgets!  This makes sense when one considers the amount of people and work involved in creating large-scale animation.  Within the seven genres with the lowest budgets, Romance was the highest, with Film Noir coming in dead last.
+    * We discovered that animated films have the highest average budgets!  This makes sense when one considers the amount of people and work involved in creating large-scale animation.  Within the seven genres with the lowest budgets, Romance was the highest, with Film Noir coming in dead last.
 
 
 * What countries are represented in the movie dataset, and how often?
-    The first visualization to come from this was incomprehensible, due to the enormous lead the USA had in the dataset.  After we removed the US, we found the same problem with the UK.  Removing both the USA and the UK, we were left with a much more readable visualization that showed films from far lesser represented countries.  France was the lead after the USA and UK.  Finally, to represent the least-represented, we created a pie chart showing all the countries that only had one film represented.
+    * The first visualization to come from this was incomprehensible, due to the enormous lead the USA had in the dataset.  After we removed the US, we found the same problem with the UK.  Removing both the USA and the UK, we were left with a much more readable visualization that showed films from far lesser represented countries.  France was the lead after the USA and UK.  Finally, to represent the least-represented, we created a pie chart showing all the countries that only had one film represented.
 
 
 
