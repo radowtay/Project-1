@@ -45,6 +45,7 @@ Data Visualization
 * Inferential Statistics
 * Data Visualization
 * Predictive Modeling
+* Search function via User Input
 * etc.
 
 
