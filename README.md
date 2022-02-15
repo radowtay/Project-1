@@ -81,7 +81,7 @@ We dropped any rows that had no values.
 
 
 * Top 5 Genres in List vs IMDB Rating
-
+    * We Discovered that the top 5 rated Genres based on IMDB rating were: Film-Noir, Biography, History, War and Doucumentaries. However we also looked into the most and least reccuring genres. We deciphered from our analysis that 60% of the Least recurring genres ranked in the top 5 IMDB rated Genres. . 
 
 * Genres with the highest and lowest average budgets
     * We discovered that animated films have the highest average budgets!  This makes sense when one considers the amount of people and work involved in creating large-scale animation.  Within the seven genres with the lowest budgets, Romance was the highest, with Film Noir coming in dead last.
