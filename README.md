@@ -20,7 +20,7 @@ Data Visualization
 ### The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine (insert questions here)using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula? 
 
 
-The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine (insert questions here)using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula? 
+
 
 ## Project Team / Organization
 <table>
