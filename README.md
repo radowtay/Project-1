@@ -17,7 +17,10 @@ Data Visualization
 #### Project Status: [Active]
 
 ## Project Intro/Objective
-### Purpose: The purpose of this project is to satisfy our curiosity of film data.
+### The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine (insert questions here)using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula? 
+
+
+The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine (insert questions here)using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula? 
 
 ## Project Team / Organization
 <table>
@@ -68,7 +71,7 @@ We removed columns that were not relevant or had little to no data.
 We Renamed the columns and reordered them to make them have a more intuitive presentation. 
 We dropped any rows that had no values. 
 
-### Questions asked :
+### Questions asked (possible factors) :
 
 * What movie(s) rank highest in score with the lowest budget(s)?
 
