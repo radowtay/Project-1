@@ -1,11 +1,19 @@
-
 # Project_1
 
-<<<<<<< HEAD
+![IMDB_Logo](1200px-IMDB_Logo_2016.svg.png)
+
+
 ## Group: Wanna Fight About It? 
 
-Table of Contents 
-# with links to each section 
+## Table of content
+* [General info](#general-info)
+* [Questions](#questions)
+* [Data Sources](#data_sources)
+    * [Preview](#preview)
+* [APIs](#APIs)
+* [Data Cleaning](#Data_Cleaning)
+* [Setup](#setup)
+* [Team](#team)
 
 Data Visualization
 
@@ -16,13 +24,10 @@ Data Visualization
 =======
 #### Project Status: [Active]
 
-## Project Intro/Objective
-### The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine budget, genre, cast, director and country using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula?  
+## General info
+Project Proposal: The purpose of this project is to find out What Factors, if any, produce a successful movie?
 
-
-
-
-## Project Team / Organization
+### Team
 <table>
   <th>Name</th>
   <th>Title</th>
@@ -64,14 +69,14 @@ IMDB 5000 Movie Data
 https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
 
-### Data Cleaning:
+## Data Cleaning
 movie_meatadata.csv was our original file. 
 Cleaning Movie Data is our cleaned file. 
 We removed columns that were not relevant or had little to no data. 
 We Renamed the columns and reordered them to make them have a more intuitive presentation. 
 We dropped any rows that had no values. 
 
-### Questions asked (possible factors) :
+### Questions asked :
 
 * What movie(s) rank highest in score with the lowest budget(s)?
 
@@ -84,7 +89,7 @@ We dropped any rows that had no values.
 
 
 * Top 5 Genres in List vs IMDB Rating
-    * We Discovered that the top 5 rated Genres based on IMDB rating were: Film-Noir, Biography, History, War and Doucumentaries. However we also looked into the most and least reccuring genres. We deciphered from our analysis that 60% of the Least recurring genres ranked in the top 5 IMDB rated Genres. . 
+
 
 * Genres with the highest and lowest average budgets
     * We discovered that animated films have the highest average budgets!  This makes sense when one considers the amount of people and work involved in creating large-scale animation.  Within the seven genres with the lowest budgets, Romance was the highest, with Film Noir coming in dead last.
@@ -93,9 +98,7 @@ We dropped any rows that had no values.
 * What countries are represented in the movie dataset, and how often?
     * The first visualization to come from this was incomprehensible, due to the enormous lead the USA had in the dataset.  After we removed the US, we found the same problem with the UK.  Removing both the USA and the UK, we were left with a much more readable visualization that showed films from far lesser represented countries.  France was the lead after the USA and UK.  Finally, to represent the least-represented, we created a pie chart showing all the countries that only released one film within the dataset.
 
-### Conclusion
 
-*We concluded that there is no perfect movie formula according to our dataset. However we were intrigued by our findings. 
 
 
 ## Project Description
