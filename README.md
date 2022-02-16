@@ -17,7 +17,7 @@ Data Visualization
 #### Project Status: [Active]
 
 ## Project Intro/Objective
-### The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine (insert questions here)using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula? 
+### The purpose of our project is to find out What Factors, if any, produce a successful movie? . We will examine budget, genre, cast, director and country using data from IMDB to discover if any of these factors correlate to one another. Is there a successful movie formula?  
 
 
 
@@ -93,21 +93,9 @@ We dropped any rows that had no values.
 * What countries are represented in the movie dataset, and how often?
     * The first visualization to come from this was incomprehensible, due to the enormous lead the USA had in the dataset.  After we removed the US, we found the same problem with the UK.  Removing both the USA and the UK, we were left with a much more readable visualization that showed films from far lesser represented countries.  France was the lead after the USA and UK.  Finally, to represent the least-represented, we created a pie chart showing all the countries that only released one film within the dataset.
 
-* What movies rank highest in score with the lowest budgets? (assuming currency is in USD) in each rating bracket?
+### Conclusion
 
-We first started with changing the budget csv data from scientific notation to a regular number format we could use.
-Once found that we grouped the data into 3 categories of movie ratings (#10-8 = Great movies, #7-5 = Good Movies and 4 & below = bad movies). Once we had that data grouped we found the lowest budget for each movie and grabbed it's rating. 
-
-
-* What are the Facebook Ratings of the most popular movies?
-
-We grabbed the top 5 movies with the most facebook likes on their facebook pages from the original dataframe and put it into a bar graph with matplotlib.
-
-
-* What are the Number of Movies produced In Non-English Languages?
-
-We grabbed the all the language data from the dataframe for each movie and placed it into a pie chart with matplotlib. Unfortunately the dataset was filled overwhelmingly with English movies so to keep things interesting we removed the outlier.
-
+*We concluded that there is no perfect movie formula according to our dataset. However we were intrigued by our findings. 
 
 
 ## Project Description
