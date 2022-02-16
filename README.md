@@ -12,7 +12,7 @@
     * [Preview](#preview)
 * [APIs](#APIs)
 * [Data Cleaning](#Data_Cleaning)
-* [Setup](#setup)
+* [Setup](#Methods_Used)
 * [Team](#team)
 
 Data Visualization
@@ -64,7 +64,8 @@ Project Proposal: The purpose of this project is to find out What Factors, if an
 * APIs
 * etc. 
 
-### Data Source:
+## Data Sources
+
 IMDB 5000 Movie Data
 https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
