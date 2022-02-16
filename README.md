@@ -70,13 +70,14 @@ https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
 
 ## Data Cleaning
+
 movie_meatadata.csv was our original file. 
 Cleaning Movie Data is our cleaned file. 
 We removed columns that were not relevant or had little to no data. 
 We Renamed the columns and reordered them to make them have a more intuitive presentation. 
 We dropped any rows that had no values. 
 
-### Questions asked :
+## Questions
 
 * What movie(s) rank highest in score with the lowest budget(s)?
 
