@@ -8,11 +8,10 @@
 ## Table of content
 * [General info](#general-info)
 * [Questions](#questions)
-* [Data Sources](#data_sources)
+* [Data Sources](#Data-Sources)
     * [Preview](#preview)
-* [APIs](#APIs)
 * [Data Cleaning](#Data_Cleaning)
-* [Setup](#Methods_Used)
+* [Setup](#Methods-Used)
 * [Team](#team)
 
 Data Visualization
@@ -27,7 +26,7 @@ Data Visualization
 ## General info
 Project Proposal: The purpose of this project is to find out What Factors, if any, produce a successful movie?
 
-### Team
+## Team
 <table>
   <th>Name</th>
   <th>Title</th>
@@ -88,7 +87,7 @@ We dropped any rows that had no values.
 
 
 * Busiest Actors - most movies output in a single year
-
+   * For this question, we found that the most busiest Actor to had ouput in a single year was Denzel Washington. Johnny Depp started first but Denzel Washington and Matt Damon started to get ahead in the movie gain.
 
 * Top 5 Genres in List vs IMDB Rating
 
